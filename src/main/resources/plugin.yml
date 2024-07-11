@@ -2,6 +2,7 @@ name: TimerPlugin
 version: '${project.version}'
 main: me.termalquake.TimerPlugin
 api-version: 1.20
+authors: [TermalQuake]
 commands:
   timer:
     description: Устанавливает таймер и таблички
